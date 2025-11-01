@@ -65,5 +65,5 @@ I'm a passionate fullstack developer specializing in modern TypeScript ecosystem
 - **Advanced Docker** and container orchestration
 - **System design** principles
 - **Performance optimization** techniques
-- **Testing strategies** with Jest and Cypress- **The architecture of both frontend and backend is being improved ** with the help of Jest and Cypress
-- **The architecture of both frontend and backend is being improved ** with the help of Jest and Cypress
+- **Testing strategies** with Jest and Cypress- **The architecture of both frontend and backend is being improved** with the help of Jest and Cypress
+- **The architecture of both frontend and backend is being improved** with the help of Jest and Cypress
